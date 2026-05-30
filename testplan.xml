@@ -1,0 +1,8 @@
+<!-- testplan.xml -->
+<testplan>
+    <test name="POWER_ON" critical="true" />
+    <test name="SHORTS" critical="true" />
+    <test name="OPENS" />
+    <test name="ANALOG_MEAS" />
+    <test name="BOUNDARY_SCAN" />
+</testplan>
